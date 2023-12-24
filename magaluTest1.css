@@ -1,0 +1,68 @@
+.custom-link {
+    border: 3px solid #0086ff;
+    width: 150px;
+    border-radius: 4px;
+}
+
+.XHYer {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+.gYTEvf {
+    margin: 18px 0px 24px;
+    padding: 24px 16px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 8px;
+}
+
+.XHYer a {
+    margin: 10px;
+    margin-right: 0; 
+}
+
+div {
+    display: block;
+}
+
+.cXhMna * {
+    margin: 0px;
+    padding: 0px;
+    outline: 0px;
+    box-sizing: border-box;
+}
+
+.cXhMna {
+    font-family: Roboto, sans-serif;
+    line-height: 14px;
+    font-weight: 400;
+}
+
+*, ::before, ::after {
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html, body {
+    margin: unset;
+    background-color: rgb(244, 244, 244);
+    color: rgb(64, 64, 64);
+    font-family: Roboto, sans-serif;
+}
+
+.hwMFDc {
+    margin: 0px 8px 30px;
+    color: rgb(64, 64, 64);
+}
+
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
